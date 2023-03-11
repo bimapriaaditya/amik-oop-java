@@ -11,8 +11,11 @@ public class App {
         // InputScanner inputScanner = new InputScanner();
         // inputScanner.main();
 
-        JOptions jopt = new JOptions();
-        jopt.main();
+        // JOptions jopt = new JOptions();
+        // jopt.main();
+
+        IfSelection ifs = new IfSelection();
+        ifs.main();
 
     }
 }
