@@ -15,7 +15,7 @@ public class App {
         // jopt.main();
 
         IfSelection ifs = new IfSelection();
-        ifs.main();
+        ifs.SwitchCaseStatement();
 
     }
 }
