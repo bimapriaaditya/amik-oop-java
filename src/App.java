@@ -14,8 +14,11 @@ public class App {
         // JOptions jopt = new JOptions();
         // jopt.main();
 
-        IfSelection ifs = new IfSelection();
-        ifs.SwitchCaseStatement();
+        // IfSelection ifs = new IfSelection();
+        // ifs.SwitchCaseStatement();
+
+        ForDo looping = new ForDo();
+        looping.DoWhileLoop();
 
     }
 }
