@@ -2,8 +2,21 @@ public class App {
 
     public static void main(String[] args) {
 
-        HelloJava greetings = new HelloJava();
-        System.out.println(greetings.main());
+        // Usia usia = new Usia();
+        // usia.main();
+
+        // Kendaraan car = new Kendaraan();
+        // car.main();
+
+        // Pemilu pemilu = new Pemilu();
+        // pemilu.main();
+
+        // OddEven loop = new OddEven();
+        // loop.main();
+
+        Segitiga triagle = new Segitiga();
+        triagle.main();
+        
 
     }
 }
